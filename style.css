@@ -5,16 +5,16 @@ html {
 *{
         margin: 0;
         padding: 0;
-        font-family:Comic Sans MS, Comic Sans, cursive;
+        font-family:Verdana, sans-serif;
         box-sizing: border-box;
 }
 body{
-        background-color: #C78283;
+        background-color: #718355;
 }
 .card{
         width: 90%;
         max-width: 470px;
-        background: linear-gradient(135deg,#f7a9a8,#F3D9DC);
+        background: linear-gradient(135deg,#94A89A,#e9f5db);
         color:#fff;
         margin:100px auto 0;
         border-radius: 20px;
@@ -30,8 +30,8 @@ body{
 .search input{
         border: 0;
         outline: 0;
-        background: #fff0f3;
-        color: #ff477e;
+       background: #f0ead2;
+        color: #143601;
         padding: 10px 25px;
         height: 60px;
         border-radius: 30px;
@@ -42,7 +42,7 @@ body{
 .search button{
         border: 0;
         outline: 0;
-        background: #fff0f3;
+        background: #f0ead2;
         border-radius: 50%;
         width: 60px;
         height: 60px;
